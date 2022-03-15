@@ -15,11 +15,5 @@ public class WeightList {
 		weightlist.add(x1);
 		weightlist.add(x2);
 		weightlist.add(x3);
-
-		Iterator<Calculate> weightIt = weightlist.iterator();
-		while (weightIt.hasNext()) {
-			weightIt.next().totalweight();
 		}
-	}
-
 }
