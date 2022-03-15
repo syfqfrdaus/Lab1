@@ -16,4 +16,5 @@ public class WeightList {
 		weightlist.add(x2);
 		weightlist.add(x3);
 		}
+
 }
