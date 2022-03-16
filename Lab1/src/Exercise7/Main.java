@@ -21,7 +21,10 @@ public class Main {
 			
 			newArr1[i] = MarsWeight;
 			newArr2[i] = weight;
-			
+		}
+		
+		for (int i = 0; i<5; i++)
+		{
 			System.out.println("The Weight On Earth is "+newArr2[i]+"Kg\n");
 			System.out.println("The Weight On Mars is :"+newArr1[i]+"Kg\n");
 		}
